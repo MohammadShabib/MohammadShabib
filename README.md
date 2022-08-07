@@ -8,7 +8,7 @@
 ### 🛠 &nbsp;Languages and Tools :
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,react,html,css,c,cpp,py,azure,ps,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,html,css,mongodb,mysql,c,cpp,py,vscode,azure,ps&perline=7" />
 </p>
 
 ---
