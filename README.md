@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👋 Hi 
 
-<!--
-**MohammadShabib/MohammadShabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%"> </p>
+  
+---
 
-Here are some ideas to get you started:
+### 🛠 &nbsp;Languages and Tools :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,react,html,css,c,cpp,py,azure,ps,vscode&perline=7" />
+</p>
+
+---
+
+### 🔥 &nbsp; My Stats :
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadShabib&hide=Jupyter%20Notebook,Yacc&langs_count=6&layout=compact&theme=radical" />
+</p>
