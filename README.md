@@ -1,4 +1,4 @@
-## 👋 Hi 
+## 👋 Hi &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=MohammadShabib&label=PROFILE+VIEWS&color=green)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%"> </p>
