@@ -7,7 +7,7 @@
 ### 🛠 &nbsp;Languages and Tools :
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express,react,html,css,mongodb,mysql,c,cpp,py,docker,git,ps&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express,react,html,css,mongodb,mysql,c,cpp,py,docker,ps&perline=5" />
 </p>
 
 ---
