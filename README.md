@@ -1,7 +1,5 @@
 ## 👋 Hi &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=MohammadShabib&label=PROFILE+VIEWS&color=green)
 
-![Snake animation](https://github.com/MohammadShabib/MohammadShabib/blob/output/github-contribution-grid-snake.svg)
-  
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
