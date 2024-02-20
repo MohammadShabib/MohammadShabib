@@ -76,7 +76,7 @@
         <a href="#"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white"></a> 
         <a href="#"><img alt="Educative" src="https://img.shields.io/badge/Educative-4951F5.svg?logo=Educative&logoColor=white"></a> 
         <a href="#"><img alt="JProfiler" src="https://custom-icon-badges.demolab.com/badge/JProfiler-0993E2.svg?logo=jprofiler"></a> 
-        <a href="#"><img alt="ChatGPT" src="[https://custom-icon-badges.demolab.com/badge/JProfiler-0993E2.svg?logo=jprofiler](https://custom-icon-badges.demolab.com/badge/ChatGPT-343541.svg?logo=chatgpt)"></a> 
+        <a href="#"><img alt="ChatGPT" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-343541.svg?logo=chatgpt"></a> 
         
         
 
@@ -90,7 +90,7 @@
 ### 🔥 &nbsp; My Stats :
 <p>
   <img src="https://streak-stats.demolab.com?user=MohammadShabib&theme=dark&card_width=400&background=141321" width="400" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadShabib&hide=Jupyter%20Notebook,Yacc&langs_count=6&layout=compact&theme=radical" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadShabib&hide=Jupyter%20Notebook,Yacc,HTML&langs_count=6&layout=compact&theme=radical" width="400" height="200" />
 </p>
 
 
