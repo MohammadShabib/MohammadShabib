@@ -1,7 +1,5 @@
-## 👋 Hi &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=MohammadShabib&label=PROFILE+VIEWS&color=green)
-
----
-
+## 👋 &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=MohammadShabib&label=PROFILE+VIEWS&color=green)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&random=false&width=435&height=100&lines=Hi!.....)](https://git.io/typing-svg)
 
 ### 👨‍💻 Programming and Markup Languages</h3>
   <p>
@@ -78,6 +76,8 @@
         <a href="#"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white"></a> 
         <a href="#"><img alt="Educative" src="https://img.shields.io/badge/Educative-4951F5.svg?logo=Educative&logoColor=white"></a> 
         <a href="#"><img alt="JProfiler" src="https://custom-icon-badges.demolab.com/badge/JProfiler-0993E2.svg?logo=jprofiler"></a> 
+        <a href="#"><img alt="ChatGPT" src="[https://custom-icon-badges.demolab.com/badge/JProfiler-0993E2.svg?logo=jprofiler](https://custom-icon-badges.demolab.com/badge/ChatGPT-343541.svg?logo=chatgpt)"></a> 
+        
         
 
        
