@@ -1,5 +1,5 @@
 # ![](https://komarev.com/ghpvc/?username=MohammadShabib&label=PROFILE+VIEWS&color=green)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&random=false&width=435&height=100&lines=Hi!.....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&random=false&width=435&height=100&lines=Hi!.....)](#)
 
 ---
 
