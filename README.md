@@ -21,8 +21,8 @@
 
 ### 🔥  My Stats :
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadShabib&hide=Jupyter%20Notebook,Yacc,HTML&langs_count=6&layout=compact&theme=radical" width="500" height="20" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=MohammadShabib&theme=dark&card_width=400&background=141321" width="500" height="300" />
+  <img src="https://streak-stats.demolab.com?user=MohammadShabib&theme=dark&card_width=400&background=141321" width="350" height="300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadShabib&hide=Jupyter%20Notebook,Yacc,HTML&langs_count=6&layout=compact&theme=radical" width="300" height="300" />
 </p>
 
